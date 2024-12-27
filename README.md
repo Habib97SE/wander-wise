@@ -6,6 +6,7 @@ Wander Wise is a travel app that helps users plan their trips by providing them 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 
 
@@ -66,6 +67,21 @@ mvn spring-boot:run
     - Spring Boot
     - Hibernate
     - PostgreSQL 16
+
+## Demo
+Here are some screenshots of the app:
+
+- Home Page
+![Home Page](./readme-1.png)
+
+- User Dashboard
+![Create Trip Page](./readme-2.png)
+
+- Create Trip Page
+![Create Trip Page](./readme-3.png)
+
+- Trip page
+![Trip Page](./readme-4.png)
 
 
 ## Contributing
