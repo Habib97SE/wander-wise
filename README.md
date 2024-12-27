@@ -2,6 +2,8 @@
 
 Wander Wise is a travel app that helps users plan their trips by providing them with information about the weather, currency exchange rates, routes, gas stations along the way, and more.
 
+Wander Wise is a group project created by four people as part of our graduation project at SALT Bootcamp.
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
